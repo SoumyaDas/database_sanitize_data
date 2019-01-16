@@ -1,0 +1,20 @@
+sanitize:
+  block_content:
+    block_content:
+      description: 'Sanitize block_content table'
+      query: false
+    block_content__body:
+      description: 'Sanitize block_content__body table'
+      query: false
+    block_content_field_data:
+      description: 'Sanitize block_content_field_data table'
+      query: false
+    block_content_field_revision:
+      description: 'Sanitize block_content_field_revision table'
+      query: false
+    block_content_revision:
+      description: 'Sanitize block_content_revision table'
+      query: false
+    block_content_revision__body:
+      description: 'Sanitize block_content_revision__body table'
+      query: false
